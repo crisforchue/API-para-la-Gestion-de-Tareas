@@ -2,7 +2,7 @@ import requests
 
 BASE_URL = "http://127.0.0.1:5000"
 
-# --- INTEGRACIÓN ---
+#INTEGRACIÓN
 
 def test_update_task_and_check_title():
     task = {

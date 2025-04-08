@@ -2,7 +2,7 @@ import requests
 
 BASE_URL = "http://127.0.0.1:5000"
 
-# --- FUNCIONALES ---
+#FUNCIONALES
 
 def test_create_task_api():
     task = {

@@ -2,7 +2,7 @@ import requests
 
 BASE_URL = "http://127.0.0.1:5000"
 
-# --- UNITARIAS ---
+#UNITARIAS
 
 def test_update_task_title_and_history():
     task = {
